@@ -1,0 +1,6 @@
+{
+  "name": "NetStream",
+  "description": "Stream high-definition movies and series across multiple devices seamlessly with Gemini-backed smart suggestions and watchlist profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
